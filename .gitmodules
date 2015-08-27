@@ -1,0 +1,3 @@
+[submodule "scriptui_boilerplate"]
+	path = scriptui_boilerplate
+	url = https://github.com/milligramme/scriptui_boilerplate.git
