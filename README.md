@@ -10,4 +10,11 @@ find a pageitem by object id
 ## Update submodules
 
     $ git submodule foreach 'git pull origin master'
+
+
+## Fix submodules
+
+    $ git submodule status
+    $ git submodule init
+    $ git submodule update
     
